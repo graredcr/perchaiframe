@@ -1,0 +1,8 @@
+- Install
+- Activate
+- In article edition, for example:
+
+{iframe [PARAMETER]  }[URL] {/iframe}
+
+exemple:
+{iframe width="600" height="600" }http://maps.google.com/maps/ms?hl=es&amp;ptab=2&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=212252387567540071654.00049f217a0dcb0408f5a&amp;ll=41.390075,2.187996&amp;spn=0.066711,0.154324&amp;z=13&amp;output=embed{/iframe}
